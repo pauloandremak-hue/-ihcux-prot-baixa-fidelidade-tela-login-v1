@@ -1,1 +1,2 @@
-![Tela de Login V1](https://github.com/user-attachments/assets/b7df595b-7111-4e5c-a5a7-11d7127618ae)
+
+![Tela de Login V1 (1)](https://github.com/user-attachments/assets/7fe862e5-9c9a-47dc-adcf-75a234355d22)
